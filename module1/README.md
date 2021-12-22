@@ -16,3 +16,13 @@
 - Subajuste e Sobreajuste ( a compensação do viés/variância )
 - Reduzir a dimensionalidade dos dados de treinamento para combater a maldição da dimensionalidade
 - Os algoritmos mais comuns: Regressão Linear e Polinomial, Regressão Logística, k-Nearest Neighbors, Máquinas de Vetores de Suporte [SVM], Árvores de Decisão, Florestas Aleatórias e Metódos de Ensemble.
+
+
+## Fases para o Projeto
+- Coletar Dados
+- Entender
+- Feature Engineering
+  - Selecionar características úteis
+  - Extrair características - ex: redução de dimensionalidades
+  - Criação de novas características ao coletar novos dados
+- Criar conjunto de Testes
